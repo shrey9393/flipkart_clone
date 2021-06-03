@@ -1,0 +1,12 @@
+.flex-all-center{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-center{
+    text-align: center;
+}
+.carditem{
+    margin: 0px 10px;
+}
