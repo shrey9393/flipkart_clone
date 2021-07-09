@@ -73,6 +73,9 @@ nav ul li a:hover{
     flex-direction: column;
     width: 18vw;
 }
+.carditem:hover{
+    width: 19vw;
+}
 .container{
     min-height: calc(100vh - 40px - 12vh);
 }
@@ -81,5 +84,6 @@ footer
     height: 12vh;
     color: white;
     background-color:var(--main-bg-colour);
+    /* background-color: black; */
     font-family:'Times New Roman', Times, serif;
 }
